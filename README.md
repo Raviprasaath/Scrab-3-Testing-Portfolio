@@ -1,6 +1,6 @@
 https://raviprasaath.github.io/portfolio/
 
-Intro of Portfolio
+Introduction container of Portfolio
 ![image](https://user-images.githubusercontent.com/117162868/230067304-905fa5e2-d0d4-492e-af6e-26138e5c0729.png)
 Black Card - Details
 ![image](https://user-images.githubusercontent.com/117162868/230067368-eac852bf-0607-4bc7-898a-adaedfc58305.png)
